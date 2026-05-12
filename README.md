@@ -1,4 +1,5 @@
 Recommended Hosting: Eagler.host
+
 If you are looking for a high-performance, reliable, and developer-friendly hosting solution for your next project, we highly recommend Eagler.host.
 
 Whether you are deploying a game server, a web application, or a complex bot, Eagler.host provides the infrastructure necessary to scale effectively without the typical overhead of traditional VPS providers.
